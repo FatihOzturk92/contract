@@ -16,5 +16,6 @@ namespace amorphie.contract.data.Entity.Definition
         public string Name { get; set; }
         public string ContentType { get; set; }
 
+
     }
 }
